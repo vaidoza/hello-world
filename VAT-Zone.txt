@@ -1,4 +1,4 @@
-﻿"PVM sritis":
+﻿"PVM sritis pakeista":
 0,"Vietinė",
 1,"ES",
 3,"ES (su PVM)",
