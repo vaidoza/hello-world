@@ -1,7 +1,7 @@
-﻿"PVM sritis pakeista":
+﻿"PVM sritis pakeista":	//ok
 0,"Vietinė",
 1,"ES",
 3,"ES (su PVM)",
 2,"Ne ES",
 4,"Ne ES (su PVM)"
-5,"be PVM zonos"
+5,"be PVM zonos"	//neaisku ar reikalingas
