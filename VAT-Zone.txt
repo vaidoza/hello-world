@@ -9,3 +9,9 @@
 "Tipas"
 0, "Fizinis asmuo"
 1, "Juridinis asmuo"
+
+"Salis"
+LTU	Lietuva
+LAT	Latvija
+AUS	Australija
+POL	Lenkija
