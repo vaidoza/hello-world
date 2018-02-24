@@ -6,6 +6,6 @@
 4,"Ne ES (su PVM)"
 5,"be PVM zonos"	//neaisku ar reikalingas
 
-"Tipas"
+"Tipas"           //Patikrintas
 0, "Fizinis asmuo"
 1, "Juridinis asmuo"
