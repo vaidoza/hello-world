@@ -1,3 +1,4 @@
 # hello-world
 pirmas blynas git-hube
-nauji pataisymai bus 2018-02-27
+2018-02-24 salys nurodytos abeceles tvarka
+nauji pataisymai bus 2018-02-26
