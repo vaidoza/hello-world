@@ -9,3 +9,10 @@
 "Tipas"           //Patikrintas
 0, "Fizinis asmuo"
 1, "Juridinis asmuo"
+
+"Salis"
+AUS	AU	Australija
+LTU	LT	Lietuva
+LAT	LV	Latvija
+POL	PL	Lenkija
+USA	US	JAV
