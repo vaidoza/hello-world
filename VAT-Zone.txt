@@ -9,6 +9,7 @@
 "Tipas"           //Patikrintas
 0, "Fizinis asmuo"
 1, "Uždara akcinė bendrovė"
+2, "Akcinė bendrovė"
 3, "Individuali įmonė"
 4, "Bendrija"
 
