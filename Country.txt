@@ -2,7 +2,9 @@
 "Salis"
 AUS	AU	Australija
 CAN	CA	Kanada
+FRA FR  Prancūzija
 LTU	LT	Lietuva
 LAT	LV	Latvija
 POL	PL	Lenkija
 USA	US	JAV
+GER GE  Vokietija  
