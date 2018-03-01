@@ -4,7 +4,7 @@
 3,"ES (su PVM)",
 2,"Ne ES",
 4,"Ne ES (su PVM)"
-5,"be PVM zonos"	//neaisku ar reikalingas
+5,"Vietinė be mokesčių"
 
 "Tipas"           //Patikrintas
 0, "Fizinis asmuo"
