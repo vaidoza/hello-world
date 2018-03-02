@@ -3,9 +3,9 @@
 AUS	AU	Australija
 CAN	CA	Kanada
 FRA FR  Prancūzija
+GER GE  Vokietija 
 LTU	LT	Lietuva
 LAT	LV	Latvija
 POL	PL	Lenkija
 POR PT  Porugalija
 USA	US	JAV
-GER GE  Vokietija  
