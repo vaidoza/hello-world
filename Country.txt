@@ -1,10 +1,10 @@
 //naujas sliu failas
-"Salis"
+"Šalys"
 AUS	AU	Australija
 CND	CA	Kanada
 DEN DK  Danija
 FRA FR  Prancūzija
-GER GE  Vokietija 
+GER GE  Vokietija
 LTU	LT	Lietuva
 LAT	LV	Latvija
 NTL NL  Olandija
