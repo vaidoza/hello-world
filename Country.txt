@@ -2,10 +2,12 @@
 "Salis"
 AUS	AU	Australija
 CND	CA	Kanada
+DEN DK  Danija
 FRA FR  Prancūzija
 GER GE  Vokietija 
 LTU	LT	Lietuva
 LAT	LV	Latvija
+NTL NL  Olandija
 POL	PL	Lenkija
 POR PT  Porugalija
 SWE SE  Švedija
