@@ -1,11 +1,12 @@
 //naujas sliu failas
 "Salis"
 AUS	AU	Australija
-CAN	CA	Kanada
+CND	CA	Kanada
 FRA FR  Prancūzija
 LTU	LT	Lietuva
 LAT	LV	Latvija
 POL	PL	Lenkija
 POR PT  Porugalija
+SWE SE  Švedija
 USA	US	JAV
 GER GE  Vokietija  
