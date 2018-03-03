@@ -1,0 +1,14 @@
+#naujas šalių failas
+ISO2  ISO3  Pavadinimas
+AUS	AU	Australija
+CND	CA	Kanada
+DEN DK  Danija
+FRA FR  Prancūzija
+GER GE  Vokietija
+LTU	LT	Lietuva
+LAT	LV	Latvija
+NTL NL  Olandija
+POL	PL	Lenkija
+POR PT  Portugalija
+SWE SE  Švedija
+USA	US	JAV

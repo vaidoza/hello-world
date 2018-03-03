@@ -1,0 +1,6 @@
+"Tipas"           //Patikrintas
+0, "Fizinis asmuo"
+1, "Uþdara akcinë bendrovë"
+2, "Akcinë bendrovë"
+3, "Individuali ámonë"
+4, "Maþoji ûkinë bendrija"

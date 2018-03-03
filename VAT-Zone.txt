@@ -4,19 +4,5 @@
 3,"ES (su PVM)",
 2,"Ne ES",
 4,"Ne ES (su PVM)"
-5,"be PVM zonos"	//neaisku ar reikalingas
+5,"Vietinė be mokesčių"
 
-"Tipas"           //Patikrintas
-0, "Fizinis asmuo"
-1, "Uždara akcinė bendrovė"
-3, "Individuali įmonė"
-4, "Bendrija"
-
-
-"Salis"
-AUS	AU	Australija
-CAN	CA	Kanada
-LTU	LT	Lietuva
-LAT	LV	Latvija
-POL	PL	Lenkija
-USA	US	JAV
