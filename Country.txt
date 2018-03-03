@@ -1,4 +1,4 @@
-//naujas sliu failas
+#naujas šalių failas
 "Šalys"
 AUS	AU	Australija
 CND	CA	Kanada
@@ -9,6 +9,6 @@ LTU	LT	Lietuva
 LAT	LV	Latvija
 NTL NL  Olandija
 POL	PL	Lenkija
-POR PT  Porugalija
+POR PT  Portugalija
 SWE SE  Švedija
 USA	US	JAV
