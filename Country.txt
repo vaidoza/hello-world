@@ -1,5 +1,4 @@
 #naujas šalių failas
-"Šalys"
 AUS	AU	Australija
 CND	CA	Kanada
 DEN DK  Danija
