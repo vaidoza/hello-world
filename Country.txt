@@ -1,4 +1,5 @@
 #naujas šalių failas
+ISO2  ISO3  Pavadinimas
 AUS	AU	Australija
 CND	CA	Kanada
 DEN DK  Danija
